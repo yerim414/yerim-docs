@@ -3,3 +3,10 @@ root: ./
 structure:
   readme: README.md
   summary: SUMMARY.md
+
+# 문서 병합으로 사라진 경로를 병합 대상 문서로 연결한다.
+redirects:
+  languages/python/딕셔너리-언패킹: languages/python/unpacking.md
+  languages/python/가상화-activaet: languages/python/가상환경.md
+  languages/python/requests-verify-변수: languages/python/request-라이브러리.md
+  languages/python/requests-요청-시-redirection-방지: languages/python/request-라이브러리.md

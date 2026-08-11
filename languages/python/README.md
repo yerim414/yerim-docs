@@ -1,56 +1,13 @@
 # Python
 
-* [(딕셔너리 언패킹)](딕셔너리-언패킹.md)
-* [= (왈러스 연산자)](왈러스-연산자.md)
-* [Black 코드 스타일 자동화](black-코드-스타일-자동화.md)
-* [Celery](celery.md)
-* [Deep copy, shallow copy](deep-copy-shallow-copy.md)
-* [Forward Reference(선행 참조, 전방 참조)](forward-reference선행-참조-전방-참조.md)
-* [ThreadPoolExecutor](threadpoolexecutor.md)
-* [TypeError Thread init() got an unexpected keyword](typeerror-thread-init-got-an-unexpected-keyword.md)
-* [TypeError a bytes-like object is required, not 'st](typeerror-a-bytes-like-object-is-required-not-st.md)
-* [Typing](typing.md)
-* [UnicodeEncodeError 'cp949' codec can't encode char](unicodeencodeerror-cp949-codec-cant-encode-char.md)
-* [Unpacking](unpacking.md)
-* [__del__ vs __exit__](del-vs-exit.md)
-* [collections 모듈 Counter](collections-모듈-counter.md)
-* [for-else](for-else.md)
-* [hasattr, getattr, setattr, delattr](hasattr-getattr-setattr-delattr.md)
-* [list 에서의 in 사용 → set을 이용하자](list-에서의-in-사용-set을-이용하자.md)
-* [map 함수](map-함수.md)
-* [match-case](match-case.md)
-* [missing 1 required positional argument](missing-1-required-positional-argument.md)
-* [mssql 연동](mssql-연동.md)
-* [mutable, immutable](mutable-immutable.md)
-* [mypy](mypy.md)
-* [nohup](nohup.md)
-* [oop 클래스 작성 가이드](oop-클래스-작성-가이드.md)
-* [paramiko - invoke_shell()](paramiko-invoke-shell.md)
-* [paramiko - xterm](paramiko-xterm.md)
-* [pyarmor 소스 암호화](pyarmor-소스-암호화.md)
-* [python 명령어 입력시 python 출력만 되는 오류](python-명령어-입력시-python-출력만-되는-오류.md)
-* [request 라이브러리](request-라이브러리.md)
-* [requests verify 변수](requests-verify-변수.md)
-* [requests 요청 시 redirection 방지](requests-요청-시-redirection-방지.md)
-* [requirements txt](requirements-txt.md)
-* [scheduler](scheduler.md)
-* [sqlalchemy](sqlalchemy.md)
-* [ssh 연결 paramiko](ssh-연결-paramiko.md)
-* [timeit 실행시간 측정](timeit-실행시간-측정.md)
-* [yield](yield.md)
-* [가상화 activaet](가상화-activaet.md)
-* [가상환경](가상환경.md)
-* [데이터 구조 & 컬렉션](데이터-구조-and-컬렉션/README.md)
-* [동기 컨텍스트, 비동기 컨텍스트](동기-컨텍스트-비동기-컨텍스트.md)
-* [로그파일삭제 코드](로그파일삭제-코드.md)
-* [메소드의 종류](메소드의-종류.md)
-* [반환값 무시](반환값-무시.md)
-* [언더스코어(_)](언더스코어.md)
-* [예외처리](예외처리.md)
-* [추상클래스](추상클래스.md)
-* [클래스](클래스.md)
-* [클래스 변수, 인스턴스 변수](클래스-변수-인스턴스-변수.md)
-* [파일저장](파일저장.md)
-* [패키지 관리자 pip](패키지-관리자-pip.md)
-* [해시로 파일 비교](해시로-파일-비교.md)
-* [환경변수 안바뀜 오류](환경변수-안바뀜-오류.md)
+문법과 표준 라이브러리, 실무에서 마주친 트러블슈팅 기록.
+
+* [문법 기초](groups/문법-기초.md) — 연산자, 제어문, 언패킹
+* [자료구조 & 컬렉션](groups/자료구조-컬렉션.md) — 리스트·딕셔너리와 collections
+* [객체지향](groups/객체지향.md) — 클래스 설계와 생명주기
+* [타입 & 코드 품질](groups/타입-코드품질.md) — 타입 힌트, 정적 분석, 포매터
+* [동시성 & 스케줄링](groups/동시성-스케줄링.md) — 스레드, 비동기, 예약 실행
+* [파일 & 로그](groups/파일-로그.md) — 파일 입출력과 로그 관리
+* [외부 연동](groups/외부-연동.md) — HTTP, SSH, 데이터베이스
+* [실행 환경 & 패키징](groups/실행환경-패키징.md) — 가상환경과 패키지 관리
+* [트러블슈팅](groups/트러블슈팅.md) — 예외 처리와 에러 해결 기록

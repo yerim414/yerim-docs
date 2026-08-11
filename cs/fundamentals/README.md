@@ -1,32 +1,9 @@
 # 개발 지식 (CS )
 
-* [API와 Endpoint](api와-endpoint.md)
-* [Big-O 표기법](big-o-표기법.md)
-* [CI CD](ci-cd.md)
-* [CIDR](cidr.md)
-* [CORS(교차 출처 리소스 공유)](cors교차-출처-리소스-공유.md)
-* [DDD 설계](ddd-설계.md)
-* [FQDN이란](fqdn이란.md)
-* [I O 바운드 vs CPU 바운드 작업에서 각각 어떤 방법을 써야 효과적인가](i-o-바운드-vs-cpu-바운드-작업에서-각각-어떤-방법을-써야-효과적인가.md)
-* [MSA(Microservices Architecture)](msamicroservices-architecture.md)
-* [MVC 패턴](mvc-패턴.md)
-* [Nosql vs sql](nosql-vs-sql.md)
-* [Put Patch 차이](put-patch-차이.md)
-* [RESTful API 응답 코드](restful-api-응답-코드.md)
-* [REST와 RESTful API](rest와-restful-api.md)
-* [StackShare](stackshare.md)
-* [TDD(Test-Driven Development, 테스트 주도 개발)](tddtest-driven-development-테스트-주도-개발.md)
-* [UTC to KST](utc-to-kst.md)
-* [cache](cache.md)
-* [교착상태, 데드락 (Dead Lock)](교착상태-데드락-dead-lock.md)
-* [동기 비동기](동기-비동기.md)
-* [동적 타입 언어에서의 타입 정의](동적-타입-언어에서의-타입-정의.md)
-* [멀티프로세스 vs 멀티스레드 장단점](멀티프로세스-vs-멀티스레드-장단점.md)
-* [멱등성(Idempotency)](멱등성idempotency.md)
-* [무료 가상 api 제공 사이트](무료-가상-api-제공-사이트.md)
-* [상수 처리, 관리](상수-처리-관리.md)
-* [절대경로 상대경로](절대경로-상대경로.md)
-* [정규식 테스트](정규식-테스트.md)
-* [퍼사드(Facade) 디자인 패턴](퍼사드facade-디자인-패턴.md)
-* [표준 api](표준-api.md)
-* [프로그램 & 프로세스 & 스레드](프로그램-and-프로세스-and-스레드.md)
+네트워크, 설계 패턴, 아키텍처 등 개발 전반의 기초 지식.
+
+* [네트워크 & 웹](groups/네트워크-웹.md) — HTTP, API 설계, 주소 체계
+* [아키텍처 & 설계](groups/아키텍처-설계.md) — 시스템 구조와 디자인 패턴
+* [운영체제 & 동시성](groups/운영체제-동시성.md) — 프로세스, 스레드, 동시성 문제
+* [데이터 & 성능](groups/데이터-성능.md) — 저장소 선택과 복잡도
+* [개발 환경 & 도구](groups/개발환경-도구.md) — CI/CD와 개발 도구
