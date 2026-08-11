@@ -61,5 +61,3 @@ print(person)
 del person["city"]
 print(person)
 ```
-
-[파일 open](파일-open.md)
