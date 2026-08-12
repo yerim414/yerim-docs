@@ -27,7 +27,7 @@
     * [메소드의 종류](languages/python/메소드의-종류.md)
     * [추상클래스](languages/python/추상클래스.md)
     * [oop 클래스 작성 가이드](languages/python/oop-클래스-작성-가이드.md)
-    * [`__del__` vs `__exit__`](languages/python/del-vs-exit.md)
+    * [\_\_del\_\_ vs \_\_exit\_\_](languages/python/del-vs-exit.md)
     * [hasattr, getattr, setattr, delattr](languages/python/hasattr-getattr-setattr-delattr.md)
   * [타입 & 코드 품질](languages/python/groups/타입-코드품질.md)
     * [Typing](languages/python/typing.md)
@@ -127,6 +127,13 @@
     * [U-02 패스워드 복잡성 설정](infra/linux/u-02-패스워드-복잡성-설정.md)
     * [U-03 계정 잠금 임계값 설정](infra/linux/u-03-계정-잠금-임계값-설정.md)
     * [U-04 패스워드 파일 보호](infra/linux/u-04-패스워드-파일-보호.md)
+
+## AI
+
+* [클로드](ai/undefined/README.md)
+  * [Claude Code 설치와 첫 실행](ai/undefined/claude-code.md)
+  * [Claude md 작성](ai/undefined/claude-md.md)
+  * [로컬 MCP 연결 - DB연결](ai/undefined/mcp-db.md)
 
 ## 프로젝트
 

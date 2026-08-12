@@ -22,6 +22,6 @@ ge : greater than or equal to, 이상
 
 le : less than or equal to
 
-multiple_of : 주어진 숫자의 배수, 위의 소스는 2의 배수만을 의미
+multiple\_of : 주어진 숫자의 배수, 위의 소스는 2의 배수만을 의미
 
-allow_inf_nan : `'inf'`, `'-inf'`, `'nan'`  값 허용
+allow\_inf\_nan : `'inf'`, `'-inf'`, `'nan'`  값 허용
