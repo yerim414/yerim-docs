@@ -1,3 +1,6 @@
 .DS_Store
 Thumbs.db
 node_modules/
+
+# 로컬 참고용 문서 (발행하지 않음)
+GITBOOK-GUIDE.md

@@ -134,6 +134,11 @@ layout:
       <td>롤 전적 검색 봇 만들기</td>
       <td><a href="projects/discord-bot/README.md">디스코드 봇 만들기</a></td>
     </tr>
+    <tr>
+      <td><strong>Notion → GitBook 이관</strong></td>
+      <td>문서 175개 이관과 구조·보안 정리</td>
+      <td><a href="projects/notion-to-gitbook/README.md">Notion → GitBook 문서 이관</a></td>
+    </tr>
   </tbody>
 </table>
 

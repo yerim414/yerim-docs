@@ -130,10 +130,10 @@
 
 ## AI
 
-* [클로드](ai/undefined/README.md)
-  * [Claude Code 설치와 첫 실행](ai/undefined/claude-code.md)
-  * [Claude md 작성](ai/undefined/claude-md.md)
-  * [로컬 MCP 연결 - DB연결](ai/undefined/mcp-db.md)
+* [클로드](ai/claude/README.md)
+  * [Claude Code 설치와 첫 실행](ai/claude/claude-code.md)
+  * [Claude md 작성](ai/claude/claude-md.md)
+  * [로컬 MCP 연결 - DB연결](ai/claude/mcp-db.md)
 
 ## 프로젝트
 
@@ -152,6 +152,11 @@
   * [롤 개발자 apikey 발급](projects/discord-bot/롤-개발자-apikey-발급.md)
   * [롤 전적 검색 봇 만들기 1](projects/discord-bot/롤-전적-검색-봇-만들기-1.md)
   * [롤 전적 검색 봇 만들기 2](projects/discord-bot/롤-전적-검색-봇-만들기-2.md)
+* [Notion → GitBook 문서 이관](projects/notion-to-gitbook/README.md)
+  * [마이그레이션 정리](projects/notion-to-gitbook/마이그레이션-정리.md)
+  * [정보 구조 재설계](projects/notion-to-gitbook/정보-구조-재설계.md)
+  * [자격증명 제거](projects/notion-to-gitbook/자격증명-제거.md)
+  * [운영 규칙](projects/notion-to-gitbook/운영-규칙.md)
 
 ## CS
 
