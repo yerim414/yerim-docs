@@ -23,6 +23,4 @@
 
 [페이징 처리(LIMIT, OFFSET)](페이징-처리limit-offset.md)
 
-[Explain](explain.md)
-
 [sql_mode](sql-mode.md)

@@ -5,8 +5,6 @@
 
 [FastApi 설치 및 실행](fastapi-설치-및-실행.md)
 
-[Create api](create-api.md)
-
 [Pydantic - BaseModel](pydantic-basemodel.md)
 
 [User Basemodel 만들기](user-basemodel-만들기.md)

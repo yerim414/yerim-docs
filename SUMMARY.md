@@ -39,7 +39,6 @@
     * [ThreadPoolExecutor](languages/python/threadpoolexecutor.md)
     * [동기 컨텍스트, 비동기 컨텍스트](languages/python/동기-컨텍스트-비동기-컨텍스트.md)
     * [Celery](languages/python/celery.md)
-    * [scheduler](languages/python/scheduler.md)
     * [nohup](languages/python/nohup.md)
   * [파일 & 로그](languages/python/groups/파일-로그.md)
     * [파일 open](languages/python/데이터-구조-and-컬렉션/파일-open.md)
@@ -75,7 +74,6 @@
   * [Node js에서 mysql db 백업](languages/nodejs/node-js에서-mysql-db-백업.md)
   * [Node scheduler](languages/nodejs/node-scheduler.md)
   * [Reduce](languages/nodejs/reduce.md)
-  * [Unexpected token , in JSON at position](languages/nodejs/unexpected-token-in-json-at-position.md)
   * [express 서버 구성](languages/nodejs/express-서버-구성.md)
   * [nodemon 설정](languages/nodejs/nodemon-설정.md)
 
@@ -85,7 +83,6 @@
   * [Auto Increment(시퀀스 자동증가)](data/sql/auto-increment시퀀스-자동증가.md)
   * [DATETIME과 TIMESTAMP 차이](data/sql/datetime과-timestamp-차이.md)
   * [Drop](data/sql/drop.md)
-  * [Explain](data/sql/explain.md)
   * [JSON 데이터 형식](data/sql/json-데이터-형식.md)
   * [MYSQL Dump](data/sql/mysql-dump.md)
   * [Mysql 외부접속](data/sql/mysql-외부접속.md)
@@ -121,7 +118,6 @@
   * [mount(하드, usb 연결)](infra/linux/mount하드-usb-연결.md)
   * [vi, vim](infra/linux/vi-vim.md)
   * [vim 명령어](infra/linux/vim-명령어.md)
-  * [검색로봇 차단](infra/linux/검색로봇-차단.md)
   * [계정생성](infra/linux/계정생성.md)
   * [리눅스 파일 및 디렉토리 명령어](infra/linux/리눅스-파일-및-디렉토리-명령어.md)
   * [파일 및 디렉토리 권한 설정](infra/linux/파일-및-디렉토리-권한-설정.md)
@@ -135,7 +131,6 @@
 ## 프로젝트
 
 * [FastAPI & Pydantic](projects/fastapi-pydantic/README.md)
-  * [Create api](projects/fastapi-pydantic/create-api.md)
   * [DB 연결](projects/fastapi-pydantic/db-연결.md)
   * [FastApi 설치 및 실행](projects/fastapi-pydantic/fastapi-설치-및-실행.md)
   * [Pydantic - BaseModel](projects/fastapi-pydantic/pydantic-basemodel.md)
@@ -146,12 +141,10 @@
   * [JWT 인증 토큰 검사](projects/jwt/jwt-인증-토큰-검사.md)
   * [파이썬으로 간단 JWT 사용](projects/jwt/파이썬으로-간단-jwt-사용.md)
 * [디스코드 봇 만들기](projects/discord-bot/README.md)
-  * [discord 개발자 포탈, 토큰 받기](projects/discord-bot/discord-개발자-포탈-토큰-받기.md)
   * [간단한 인사 봇 만들기](projects/discord-bot/간단한-인사-봇-만들기.md)
   * [롤 개발자 apikey 발급](projects/discord-bot/롤-개발자-apikey-발급.md)
   * [롤 전적 검색 봇 만들기 1](projects/discord-bot/롤-전적-검색-봇-만들기-1.md)
   * [롤 전적 검색 봇 만들기 2](projects/discord-bot/롤-전적-검색-봇-만들기-2.md)
-  * [롤 전적 검색 봇 만들기 3](projects/discord-bot/롤-전적-검색-봇-만들기-3.md)
 
 ## CS
 

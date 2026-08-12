@@ -42,8 +42,6 @@ Node.js는 싱글 스레드 모델을 사용하므로 CPU 집약적인 작업을
 
 [**MongoDB 연결**](mongodb-연결.md)
 
-[Unexpected token , in JSON at position](unexpected-token-in-json-at-position.md)
-
 [Node scheduler](node-scheduler.md)
 
 [Reduce](reduce.md)
