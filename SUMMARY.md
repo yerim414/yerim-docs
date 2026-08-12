@@ -107,7 +107,8 @@
 
 ## 인프라 & 도구
 
-* [Git](infra/git.md)
+* [Git](and/git/README.md)
+  * [Git PR](and/git/git-pr.md)
 * [Docker](infra/docker/README.md)
   * [Docker Compose](infra/docker/docker-compose.md)
   * [도커 명령어](infra/docker/도커-명령어.md)

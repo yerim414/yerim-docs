@@ -108,6 +108,6 @@ SELECT 즉 읽기 권한만 받은 상태!
 
 그리고 다음과같이 질문을 해봣는데
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 아까 생성한 데이터들을 정상적으로 읽어오고 있다!
