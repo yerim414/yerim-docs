@@ -1,6 +1,6 @@
 # Table of contents
 
-* [소개](README.md)
+* [정예림](README.md)
 
 ## 언어
 

@@ -18,9 +18,9 @@ layout:
     visible: false
 ---
 
-# 정예림 | Backend Developer
+# 정예림
 
-Python · Node.js · NestJS · PostgreSQL
+**Backend Developer** · Python · Node.js · NestJS · PostgreSQL
 
 {% hint style="info" %}
 개인 학습과 실무 경험을 정리한 기록입니다. 직접 겪은 트러블슈팅과 해결 과정을 함께 남겨두었습니다.
