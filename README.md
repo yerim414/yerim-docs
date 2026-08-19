@@ -44,7 +44,7 @@ layout:
 
 ## 인프라 & 도구
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Linux</strong></td><td>서버 운영과 취약점 점검 항목</td><td><a href="infra/linux/">linux</a></td></tr><tr><td><strong>Docker</strong></td><td>컨테이너 구성과 운영</td><td><a href="infra/docker/">docker</a></td></tr><tr><td><strong>Git</strong></td><td>버전 관리 명령어 정리</td><td><a href="and/git/">git</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Linux</strong></td><td>서버 운영과 취약점 점검 항목</td><td><a href="infra/linux/">linux</a></td></tr><tr><td><strong>Docker</strong></td><td>컨테이너 구성과 운영</td><td><a href="infra/docker/">docker</a></td></tr><tr><td><strong>Git</strong></td><td>버전 관리 명령어 정리</td><td><a href="infra/git/">git</a></td></tr></tbody></table>
 
 ## 프로젝트
 

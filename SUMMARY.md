@@ -107,8 +107,8 @@
 
 ## 인프라 & 도구
 
-* [Git](and/git/README.md)
-  * [Git PR](and/git/git-pr.md)
+* [Git](infra/git/README.md)
+  * [Git PR](infra/git/git-pr.md)
 * [Docker](infra/docker/README.md)
   * [Docker Compose](infra/docker/docker-compose.md)
   * [도커 명령어](infra/docker/도커-명령어.md)
@@ -158,7 +158,7 @@
   * [정보 구조 재설계](projects/notion-to-gitbook/정보-구조-재설계.md)
   * [자격증명 제거](projects/notion-to-gitbook/자격증명-제거.md)
   * [운영 규칙](projects/notion-to-gitbook/운영-규칙.md)
-* [movie-ticket-watcher](undefined-2/movie-ticket-watcher.md)
+* [movie-ticket-watcher](projects/movie-ticket-watcher.md)
 
 ## CS
 
