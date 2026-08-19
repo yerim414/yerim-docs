@@ -1,12 +1,12 @@
 ---
 description: 개발하면서 쌓은 기술 지식과 프로젝트 기록을 정리한 공간입니다.
-cover: .gitbook/assets/cover.svg
-coverY: 0
+cover: .gitbook/assets/chiikawa-hachiware.jpg
+coverY: -28
 layout:
   width: default
   cover:
     visible: true
-    size: full
+    size: hero
     mask: none
   title:
     visible: true
