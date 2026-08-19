@@ -158,6 +158,7 @@
   * [정보 구조 재설계](projects/notion-to-gitbook/정보-구조-재설계.md)
   * [자격증명 제거](projects/notion-to-gitbook/자격증명-제거.md)
   * [운영 규칙](projects/notion-to-gitbook/운영-규칙.md)
+* [movie-ticket-watcher](undefined-2/movie-ticket-watcher.md)
 
 ## CS
 
