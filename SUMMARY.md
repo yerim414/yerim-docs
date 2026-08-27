@@ -141,7 +141,8 @@
       * [스킬 설치 및 사용법](ai/claude/and/andrej-karpathy-skills/스킬-설치-및-사용법.md)
     * [PonyTail](ai/claude/and/ponytail/README.md)
       * [스킬 설치 및 사용법](ai/claude/and/ponytail/undefined.md)
-    * [Caveman](ai/claude/and/caveman.md)
+    * [Caveman](ai/claude/and/caveman/README.md)
+      * [스킬 설치 및 사용법](ai/claude/and/caveman/undefined.md)
 
 ## 프로젝트
 
