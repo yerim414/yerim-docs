@@ -1,6 +1,6 @@
 # 스킬 설치 및 사용법
 
-1. Claude 실행 후 아래 명령어 입력
+## 1. Claude 실행 후 아래 명령어 입력
 
 ```
 /plugin marketplace add JuliusBrussee/caveman
@@ -11,13 +11,15 @@
 
 여느 스킬과 같이 마켓플레이스 등록 후 설치
 
-2. 사용
+***
+
+## 2. 사용
 
 <figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ./caveman 명령어를 사용하여 이용하면 된다.
 
-설치 후 위 명령어가 뜨지 않아 재시작 하였다. 혹시 뜨지 않을 경우엔 재시작 필수!
+**설치 후 위 명령어가 뜨지 않아 재시작 하였다. 혹시 뜨지 않을 경우엔 재시작 필수!**
 
 <figure><img src="../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
@@ -25,7 +27,9 @@
 
 해당 모드를 끄고 싶을땐 /caveman off 를 치면 된다.
 
-3. 부가기능
+***
+
+## 3. 부가기능
 
 소스코드 외에도 다양한 부가기능이 있다.
 
@@ -37,6 +41,6 @@
 * /caveman-comprass - Markdown 파일을 압축한다. claude.md 등 caveman 스타일로 줄이는 용도이다.
 * caveman-stats - 현재 claude code 세션의 실제 토큰 사용량과 Caveman 적용으로 예상되는 절감량을 보여준다.
 
-
+***
 
 Caveman 스킬도 utlra 옵션을제공하지만실제 작업의 결과를 어느정도 확인해야 하기 때문에 내 기준에는 lite가 적당한거 같다.

@@ -1,6 +1,6 @@
 # 스킬 설치 및 사용법
 
-1. 설치 및 사용법
+## 1. 설치 및 사용법
 
 ```
 /plugin marketplace add anthropics/claude-plugins-community
@@ -9,9 +9,11 @@
 
 <figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-설치 후 /eli5 명령이 보이지 않는다면 해당 세션을 재실행 하기
+**설치 후 /eli5 명령이 보이지 않는다면 해당 세션을 재실행 하기**
 
-2. 사용법
+***
+
+## 2. 사용법
 
 사용법은 아주 간단하였다. 별도의 옵션도 없다..
 
@@ -29,4 +31,4 @@ eli5 명령어로 설명듣고자 하는 내용을 작성하면 된다.
 
 <figure><img src="../../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-신규 입사자 보단. 비개발자였던 분에게 좀 적합할거같다..
+**신규 입사자 보단. 비개발자였던 분에게 좀 적합할거같다..**

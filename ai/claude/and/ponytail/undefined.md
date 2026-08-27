@@ -1,6 +1,6 @@
 # 스킬 설치 및 사용법
 
-1. Claude 실행 후 아래 명령어 입력
+## 1. Claude 실행 후 아래 명령어 입력
 
 ```
 /plugin marketplace add DietrichGebert/ponytail
@@ -13,7 +13,9 @@
 
 내환경  에서는이미 설치되어 있어서 already installed 라 뜨고 있다.
 
-2. 사용법
+***
+
+## 2. 사용법
 
 <figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
@@ -27,5 +29,4 @@ lite, full, ultra 모드를 선택 할 수 있는데 모드 별 차이는 다음
 
 <figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-ponytail 스킬은 신규 개발이나 기존 프로젝트에서도 유용한거 같다
-
+**ponytail 스킬은 신규 개발이나 기존 프로젝트에서도 유용한거 같다**

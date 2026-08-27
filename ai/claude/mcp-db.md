@@ -4,9 +4,12 @@ mcp서버를 연결해서 DB연결을 해보겠습니다
 
 로컬DB는 Posgtresql로 이용한다
 
-1. 사전준비\
-   먼저 내 로컬에 Claude Desktop 앱, PostgresSQL, Node.js 설치가 되어 있어야 한다.\
-   그리고 연습에 사용할 DB Table도 하나 만들어 준다
+***
+
+## 1. 사전준비
+
+먼저 내 로컬에 Claude Desktop 앱, PostgresSQL, Node.js 설치가 되어 있어야 한다.\
+그리고 연습에 사용할 DB Table도 하나 만들어 준다
 
 ```sql
 CREATE TABLE products (
@@ -25,7 +28,9 @@ INSERT INTO products (name, price, stock) VALUES
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. Claude가 사용할 계정 만들기
+***
+
+## 2. Claude가 사용할 계정 만들기
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -53,10 +58,13 @@ ALTER DEFAULT PRIVILEGES IN SCHEMA public
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-SELECT 즉 읽기 권한만 받은 상태!
+**SELECT 즉 읽기 권한만 받은 상태!**
 
-1. MCP 서버 고르기\
-   Anthropic이 초기에 배포했던 `@modelcontextprotocol/server-postgres`는 **더 이상 유지보수되지 않으며 SQL 인젝션 취약점이 알려져 있습니다.**
+***
+
+## 3. MCP 서버 고르기
+
+Anthropic이 초기에 배포했던 `@modelcontextprotocol/server-postgres`는 **더 이상 유지보수되지 않으며 SQL 인젝션 취약점이 알려져 있습니다.**
 
 | 서버                         | 특징                                                          |
 | -------------------------- | ----------------------------------------------------------- |
@@ -65,14 +73,17 @@ SELECT 즉 읽기 권한만 받은 상태!
 
 나는 `mcp-server-pg` 를 사용!
 
-1. 클로드 설정 파일 위치 확인\
-   다음은 클로드 데스크톱을 설치하면서 생긴 설정파일을 확인해야한다
+***
+
+## 4. 클로드 설정 파일 위치 확인
+
+다음은 클로드 데스크톱을 설치하면서 생긴 설정파일을 확인해야한다
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 개발자의 구성편집 버튼을 누르면 바로 claude\_desktop\_config.json 가 설치된 경로로 파일탐색기가 열린다
 
-```sql
+```
 "C:\Users\user\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\claude_desktop_config.json"
 ```
 
@@ -80,7 +91,7 @@ SELECT 즉 읽기 권한만 받은 상태!
 
 **경로가 다른 이유가 Microsoft Store에서 다운받은거라 일반 설치판과는 경로가 다르다고한다.**
 
-```sql
+```json
 {
   "mcpServers": {
     "postgres": {
@@ -99,12 +110,15 @@ SELECT 즉 읽기 권한만 받은 상태!
 
 아무튼 해당 json 파일에 위 내용을 추가한다.
 
-1. 연결 확인\
-   클로드를 완전히 종료 하고 다시 실행해보면
+***
+
+## 5. 연결 확인
+
+클로드를 완전히 종료 하고 다시 실행해보면
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-정상적으로 포스트 그레스가 추가 되었다!
+**정상적으로 포스트 그레스가 추가 되었다!**
 
 그리고 다음과같이 질문을 해봣는데
 
