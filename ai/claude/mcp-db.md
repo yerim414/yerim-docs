@@ -23,7 +23,7 @@ INSERT INTO products (name, price, stock) VALUES
 ('모니터', 250000, 7);
 ```
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Claude가 사용할 계정 만들기
 

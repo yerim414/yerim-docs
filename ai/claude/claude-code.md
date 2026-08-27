@@ -39,7 +39,7 @@ claude doctor       # 설치 상태와 설정 점검
 `/add-dir` 명령어를 통해서 다른 디렉토리도 추가 가능하다.\
 위 명령어는 vs Code 확장에선 보이지 않음.. CLI에서만 확인 가능
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 아니면 md에 다른 디렉토리의 경로를 적어둬도 됨
 
