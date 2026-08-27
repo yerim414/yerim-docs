@@ -137,6 +137,7 @@
   * [Claude md 작성](ai/claude/claude-md.md)
   * [로컬 MCP 연결 - DB연결](ai/claude/mcp-db.md)
   * [Claude 프롬프트 작성법 1](ai/claude/claude-1.md)
+  * [Untitled](ai/claude/untitled.md)
   * [플러그인 & 스킬](ai/claude/and/README.md)
     * [andrej-karpathy-skills(카파시 스킬)](ai/claude/and/andrej-karpathy-skills/README.md)
       * [스킬 설치 및 사용법](ai/claude/and/andrej-karpathy-skills/스킬-설치-및-사용법.md)
