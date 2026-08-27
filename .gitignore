@@ -4,3 +4,6 @@ node_modules/
 
 # 로컬 참고용 문서 (발행하지 않음)
 GITBOOK-GUIDE.md
+
+# 로컬 전용 Claude 스킬 (공유하지 않음)
+.claude/skills/
