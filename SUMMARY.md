@@ -143,6 +143,7 @@
       * [스킬 설치 및 사용법](ai/claude/and/ponytail/undefined.md)
     * [Caveman](ai/claude/and/caveman/README.md)
       * [스킬 설치 및 사용법](ai/claude/and/caveman/undefined.md)
+    * [ELI5](ai/claude/and/eli5.md)
 
 ## 프로젝트
 
