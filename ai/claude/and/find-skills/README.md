@@ -12,11 +12,11 @@
 
 {% embed url="https://github.com/vercel-labs/skills/tree/HEAD/skills/find-skills" %}
 
-이 스킬은 말그대로 내가 만들고자 하는 프로젝트에 대해 설명을 하면 그에 맞춰 외부 skill을 찾아주는 skill이다.
+**이 스킬은 말그대로 내가 만들고자 하는 프로젝트에 대해 설명을 하면 그에 맞춰 외부 skill을 찾아주는 skill이다.**
 
 그런데 추천을 하지만 사람들이 잘 사용하지 않는 그런 스킬을 추천해주면 어떡하지..? 라는 생각을 했는데
 
-```
+```markdown
 ### Step 4: Verify Quality Before Recommending
 
 **Do not recommend a skill based solely on search results.** Always verify:
@@ -28,6 +28,8 @@
 ```
 
 이미 이 스킬에 검색 기준으로만 추천이 아닌, **설치횟수, 평판, Git hub 스타** 등 추천전에 그 스킬에 대해 검증하여 추천해준다.
+
+***
 
 꼭 신규 프로젝트가 아니여도 기존에 있던 프로젝트에서도 추천을 받아 사용하면 좋을 것 같다.
 
