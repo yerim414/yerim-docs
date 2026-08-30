@@ -138,6 +138,7 @@
   * [로컬 MCP 연결 - DB연결](ai/claude/mcp-db.md)
   * [Claude 프롬프트 작성법 1](ai/claude/claude-1.md)
   * [Untitled](ai/claude/untitled.md)
+  * [하네스](ai/claude/undefined.md)
   * [플러그인 & 스킬](ai/claude/and/README.md)
     * [find-skills](ai/claude/and/find-skills/README.md)
       * [스킬 설치 및 사용법](ai/claude/and/find-skills/undefined.md)
