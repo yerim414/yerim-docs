@@ -218,7 +218,6 @@
 * [알고리즘](cs/algorithm/README.md)
   * [구간 합 알고리즘](cs/algorithm/구간-합-알고리즘.md)
   * [숫자의 합 구하기](cs/algorithm/숫자의-합-구하기.md)
-* [기술 면접](cs/interview.md)
 * [머신러닝](cs/machine-learning/README.md)
   * [코랩](cs/machine-learning/코랩.md)
 
@@ -227,3 +226,4 @@
 * [협업](etc/collaboration/README.md)
   * [TODO 주석](etc/collaboration/todo-주석.md)
   * [commit 메세지 작성](etc/collaboration/commit-메세지-작성.md)
+* [기술 면접](undefined-3/interview.md)

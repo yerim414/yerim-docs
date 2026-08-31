@@ -52,7 +52,7 @@ layout:
 
 ## CS
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>개발 지식</strong></td><td>네트워크, 설계 패턴, 아키텍처</td><td><a href="cs/fundamentals/">fundamentals</a></td></tr><tr><td><strong>알고리즘</strong></td><td>문제 풀이와 풀이 과정 정리</td><td><a href="cs/algorithm/">algorithm</a></td></tr><tr><td><strong>기술 면접</strong></td><td>면접 대비 정리</td><td><a href="cs/interview.md">interview.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>개발 지식</strong></td><td>네트워크, 설계 패턴, 아키텍처</td><td><a href="cs/fundamentals/">fundamentals</a></td></tr><tr><td><strong>알고리즘</strong></td><td>문제 풀이와 풀이 과정 정리</td><td><a href="cs/algorithm/">algorithm</a></td></tr><tr><td><strong>기술 면접</strong></td><td>면접 대비 정리</td><td><a href="undefined-3/interview.md">interview.md</a></td></tr></tbody></table>
 
 ## 기타
 
