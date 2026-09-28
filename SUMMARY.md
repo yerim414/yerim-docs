@@ -129,6 +129,7 @@
     * [U-03 계정 잠금 임계값 설정](infra/linux/u-03-계정-잠금-임계값-설정.md)
     * [U-04 패스워드 파일 보호](infra/linux/u-04-패스워드-파일-보호.md)
 * [Nginx](infra/nginx/README.md)
+* [n8n](infra/n8n/README.md)
 
 ## AI
 
