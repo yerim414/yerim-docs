@@ -10,6 +10,7 @@
 | 문서 | 섹션 | 되돌릴 위치 |
 |---|---|---|
 | [Explain](data/sql/explain.md) | SQL | `SUMMARY.md` + `data/sql/README.md` |
+| [n8n](infra/n8n/README.md) | 인프라 & 도구 | `SUMMARY.md` + 섹션 추가 |
 | [검색로봇 차단](infra/linux/검색로봇-차단.md) | Linux | `SUMMARY.md` + `infra/linux/README.md` |
 | [Unexpected token , in JSON at position](languages/nodejs/unexpected-token-in-json-at-position.md) | Node.js | `SUMMARY.md` + `languages/nodejs/README.md` |
 | [scheduler](languages/python/scheduler.md) | Python / 동시성 & 스케줄링 | `SUMMARY.md` + `languages/python/groups/동시성-스케줄링.md` |
